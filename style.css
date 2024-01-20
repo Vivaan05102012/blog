@@ -1,0 +1,63 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.travel1 img {
+  width: 100%;
+}
+
+.travel1 {
+  border: 1px solid blue;
+}
+
+.travel1 h5 {
+  margin-left: 20px;
+  text-align: left;
+}
+
+.underlineforthenameoftheplace {
+  width: 50%;
+}
+
+.travel1 p {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.movie_head {
+  font-size: 20px;
+  padding: 6px 22px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  width: 100%;
+  display: inline-block;
+}
+
+.movie_head i {
+  float: right;
+}
+
+.stars {
+  color: gold;
+}
+
+.environment_li {
+  margin-top: 13px;
+}
+
+.environment_li h4 {
+  border-bottom: 1px solid white;
+  padding: 8px;
+}
+
+.environment_li img {
+  border-radius: 30px;
+  height: 250px;
+  width: 350px;
+
+}
+
+.environment_li p {
+  margin-top: 10px;
+}
